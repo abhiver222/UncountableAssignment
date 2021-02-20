@@ -7,6 +7,8 @@ const ingredientMap = {
   "curingAgent": ["Curing Agent 1", "Curing Agent 2"]
 }
 
+// color map to keep the ingredient coloring constant throughtout the website
+// for better priming for the end user
 const colorMap = {
   "Polymer 1": "red",
   "Polymer 2": "green",
