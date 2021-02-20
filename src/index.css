@@ -11,3 +11,121 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+hr{
+  width: 50%;
+  color:#808080;
+}
+
+/* scatter plot */
+
+.scatterPlotContatiner{
+  width: 100%;
+  margin-left: 5%;
+  padding-bottom: 3%;
+}
+
+.scatterPlotDiv{
+  display: flex;
+}
+
+.outputRangeContainer{
+  margin-top: 10%;
+}
+
+.rangeSubmitButton{
+  margin-top: 8% !important;
+}
+
+.outputMinTf{
+  margin-right: 5px !important ;
+}
+
+.inputOutHeading{
+  margin-right: 10%;
+  margin-top: 3%;
+  padding-bottom: 3%;
+}
+
+.scatterPlotChart{
+  width: 60%;
+  margin-left: 5%;
+}
+
+.scatterPlotInputs{
+  margin-left: 8%;
+}
+
+.scatterPlotCard{
+  margin-top: 25%;
+  height: 30%;
+  overflow-y: auto !important;
+}
+
+.inputSel{
+  margin-top: 5% !important;
+}
+
+.outputSel{
+  margin-left: 8% !important;
+  margin-top:5% !important;
+}
+
+/* Experiment Container */
+
+.doughnutContainer{
+  width: 100%;
+  margin-left:5%;
+  display:flex;
+  margin-top: 3%;
+}
+
+.doughnutGraphs{
+  width: 70%;
+}
+
+.doughnutChart{
+  width: 10%;
+}
+
+.experimentContainer{
+  padding-top: 1%;
+  padding-bottom: 5%;
+}
+
+.experimentSection{
+  width: 20%;
+  position:relative;
+  marginTop: 2%;
+}
+
+.experimentCard{
+  margin-top:10%;
+}
+
+.inputTable{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.inputTableCell{
+  width: 20%;
+}
+
+.row{
+  text-align:center;
+  display: table;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 10px;
+}
+
+.col{
+  display: table-cell;
+}
+
+.ingCard{
+  width: 20%;
+  margin-top:100px !important;
+  top: 20% !important;
+}
